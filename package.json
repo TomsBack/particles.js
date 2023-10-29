@@ -9,6 +9,7 @@
 	},
 	"author": "Marc Bruederlin <hello@marcbruederlin.com>",
 	"license": "MIT",
+	"type": "module",
 	"bugs": {
 		"url": "https://github.com/marcbruederlin/particles.js/issues"
 	},
